@@ -1,4 +1,7 @@
 # Odd-Even-Sort-In-C
+
+Fall 2016
+
 Another simple sort is the odd-even sort. The idea is to repeatedly make two
 passes through the array. On the first pass you look at all the pairs of items,
 a[j] and a[j+1], where j is odd (j = 1, 3, 5, …). If their key values are out of
